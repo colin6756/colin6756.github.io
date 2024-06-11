@@ -1,4 +1,4 @@
-## Blog Portfolio
+## Blog Home
 
 Hello and welcome to this blog! Its purpose is to allow me to showcase my work in a reproducible fashion. 
 
