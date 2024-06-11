@@ -1,7 +1,7 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+## Blog Portfolio
 
-![Image of fast.ai logo](images/logo.png)
+Hello and welcome to this blog! Its purpose is to allow me to showcase my work in a reproducible fashion. 
 
-## This is a title
+The areas of my work includes but is not limited to the following:
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+* A work-through of "Deep Learning for Coders with fastai and PyTorch" by J Howard and S Gugger, published by O'Reilly. ![Image of fast.ai logo](images/logo.png)
